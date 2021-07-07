@@ -1,0 +1,2 @@
+rootProject.name = "RecyclerAccess"
+include ':app'
